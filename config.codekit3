@@ -61,19 +61,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/image 16.png" : {
-      "ft" : 32768,
-      "iS" : 1744419,
-      "oA" : 0,
-      "oAP" : "\/assets\/image 16.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/assets\/image 18.png" : {
       "ft" : 32768,
       "iS" : 8806,
@@ -457,6 +444,19 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/image16.png" : {
+      "ft" : 32768,
+      "iS" : 1744419,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/image16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/dev\/scss\/image26.png" : {
       "ft" : 32768,
