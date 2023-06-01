@@ -1,111 +1,15 @@
+html {
+  font-size: 100%; }
 
-  
-  header {
-    background-color: #333;
-    padding: 10px;
-  }
-  
-
-
-body, h1, h2, p, ul {
-    margin: 1;
-    padding: 3;
-  }
-  
-
-  
-  body {
-    font-family: Arial, sans-serif;
-    font-size: 21px;
-    line-height: 1;
-  }
-  
-
-  nav ul {
-    list-style-type: none;
-  }
-  
-
-  nav li {
-    display: inline-block;
-    margin-right: 10px;
-  }
-  
-
-  nav a {
-    color: #fff;
-    text-decoration: none;
-  }
-  
-
-  .hero {
-    background-image: url('image26.png');
-    background-size: cover;
-    background-position: center;
-    height: 120px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
+  html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
 
 
+    h1 {
+      font-size: 2em;
+      margin: 0.67em 0; }
 
-  .hero-content {
-    text-align: center;
-    color: #fff;
-  }
-  
-
-
-
-  .hero h1 {
-    font-size: 40px;
-    margin-bottom: 20px;
-  }
-  
-
-
-
-  .hero p {
-    font-size: 18px;
-    margin-bottom: 20px;
-  }
-  
-
-
-
-  .button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-  }
-  
-  
-
-
-
-  .features {
-    background-color: #f5f5f5;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-  }
-  
-
-
-
-  .feature {
-    text-align: center;
-    margin: 20px;
-  }
-  
-
-
-
-  .feature img {
-    width: 80px;
-    height:
+      body {
+        margin: 0; }
+        
