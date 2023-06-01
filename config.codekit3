@@ -9,6 +9,19 @@
   ],
   "creatorBuild" : "34484",
   "files" : {
+    "\/assets\/image 11 copy 2.png" : {
+      "ft" : 32768,
+      "iS" : 13929,
+      "oA" : 0,
+      "oAP" : "\/assets\/image 11 copy 2.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/image 11 copy 3.png" : {
       "ft" : 32768,
       "iS" : 175933,
@@ -17,6 +30,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/image 11 copy.png" : {
+      "ft" : 32768,
+      "iS" : 42935,
+      "oA" : 0,
+      "oAP" : "\/assets\/image 11 copy.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/image 11.png" : {
+      "ft" : 32768,
+      "iS" : 9659,
+      "oA" : 0,
+      "oAP" : "\/assets\/image 11.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -82,6 +121,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/image16.png" : {
+      "ft" : 32768,
+      "iS" : 1744419,
+      "oA" : 0,
+      "oAP" : "\/assets\/image16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/image26.png" : {
+      "ft" : 32768,
+      "iS" : 2740,
+      "oA" : 0,
+      "oAP" : "\/assets\/image26.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -419,6 +484,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/dev\/scss\/img\/global\/image 11 copy 3.png" : {
+      "ft" : 32768,
+      "iS" : 175933,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/img\/global\/image 11 copy 3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/dev\/scss\/img\/global\/image 11 copy.png" : {
       "ft" : 32768,
       "iS" : 42935,
@@ -518,6 +596,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/mobile.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/mobile.html",
+      "oF" : 0
     },
     "\/dev\/scss\/sections\/_section-1.scss" : {
       "aP" : 0,
