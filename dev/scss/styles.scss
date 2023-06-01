@@ -1,3 +1,12 @@
+
+  
+  header {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+
+
 body, h1, h2, p, ul {
     margin: 1;
     padding: 3;
@@ -7,15 +16,8 @@ body, h1, h2, p, ul {
   
   body {
     font-family: Arial, sans-serif;
-    font-size: 20px;
+    font-size: 21px;
     line-height: 1;
-  }
-  
-
-  
-  header {
-    background-color: #333;
-    padding: 10px;
   }
   
 
@@ -30,23 +32,17 @@ body, h1, h2, p, ul {
   }
   
 
-
-
-
   nav a {
     color: #fff;
     text-decoration: none;
   }
   
 
-
-
-
   .hero {
     background-image: url('image26.png');
     background-size: cover;
     background-position: center;
-    height: 150px;
+    height: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,5 +107,5 @@ body, h1, h2, p, ul {
 
 
   .feature img {
-    width: 100px;
+    width: 80px;
     height:
