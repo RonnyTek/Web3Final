@@ -13,3 +13,16 @@ html {
       body {
         margin: 0; }
         
+        hr {
+          box-sizing: content-box;
+          height: 0;
+          overflow: visible;
+          }
+  
+          a {
+              background-color: transparent; }
+
+              abbr[title] {
+                  border-bottom: none;
+                  text-decoration: underline;
+                  text-decoration: underline dotted;
