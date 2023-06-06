@@ -1,102 +1,68 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Buy Now</title>
+  <title>Website Title</title>
   <style>
-    /* CSS for the Buy Now page */
+    /* CSS for the header */
     body {
       font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
     }
     
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
+    header {
+      background-color: #333;
+      color: #fff;
       padding: 20px;
     }
     
-    h1 {
-      text-align: center;
-    }
-    
-    .product {
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
       display: flex;
       align-items: center;
-      margin-bottom: 20px;
+      justify-content: space-between;
     }
     
-    .product img {
-      width: 100px;
-      height: 100px;
-      margin-right: 20px;
-    }
-    
-    .product-info {
-      flex-grow: 1;
-    }
-    
-    .product-name {
+    .logo {
+      font-size: 24px;
       font-weight: bold;
-      font-size: 18px;
     }
     
-    .product-price {
-      color: #4CAF50;
-      font-size: 16px;
-      margin-bottom: 10px;
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
     }
     
-    .buy-now-btn {
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      padding: 10px 20px;
+    nav li {
+      margin-left: 20px;
+    }
+    
+    nav a {
+      text-decoration: none;
+      color: #fff;
       font-size: 16px;
-      cursor: pointer;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Buy Now</h1>
-    
-    <div class="product">
-      <img src="image 11.png" alt="Vacuum1">
-      <div class="product-info">
-        <div class="product-name">Shark Stratos Corded stick vacuum DuoClean® PowerFins™ HairPro™</div>
-        <div class="product-price">$299.99</div>
-        <p>Starting at $42/mo
-          5-year VIP warranty
-        </p>
-        <button class="buy-now-btn">Buy Now</button>
-      </div>
+  <header>
+    <div class="container">
+      <div class="logo">Logo</div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
     </div>
-    
-    <div class="product">
-      <img src="image 11 copy 2.png" alt="vacuum2">
-      <div class="product-info">
-        <div class="product-name">Shark® Stratos™ Upright Vacuum</div>
-        <div class="product-price">$499.80</div>
-        <p>Starting at $42/mo 
-          5-year VIP warranty      
-          </p>
-        <button class="buy-now-btn">Buy Now</button>
-      </div>
-    </div>
+  </header>
 
+  <!-- Rest of the website content goes here -->
 
-
-    <div class="product">
-      <img src="image 11 copy.png" alt="vacuum">
-      <div class="product-info">
-        <div class="product-name">Shark Stratos™ Cordless with Clean Sense IQ, DuoClean® PowerFins® HairPro™</div>
-        <div class="product-price">$499.99</div>
-        <p>Starting at $42/mo 
-          5-year VIP warranty
-          </p>
-        <button class="buy-now-btn">Buy Now</button>
-      </div>
-    </div>
-      
-  </div>
 </body>
 </html>
